@@ -1,0 +1,50 @@
+[
+    {
+        "id": 20231001,
+        "dropout": true,
+        "LastGPA": 1.2,
+        "SATgrade": 1200,
+        "Age": 18,
+        "dropoutProbability": 0.99
+    },
+    {
+        "id": 20231002,
+        "dropout": false,
+        "LastGPA": 3.5,
+        "SATgrade": 1400,
+        "Age": 18,
+        "dropoutProbability": 0.59
+    },
+    {
+        "id": 20231003,
+        "dropout": true,
+        "LastGPA": 1.9,
+        "SATgrade": 1100,
+        "Age": 18,
+        "dropoutProbability": 0.39
+    },
+    {
+        "id": 20231004,
+        "dropout": true,
+        "LastGPA": 1.3,
+        "SATgrade": 1200,
+        "Age": 18,
+        "dropoutProbability": 0.29
+    },
+    {
+        "id": 20231005,
+        "dropout": false,
+        "LastGPA": 3.6,
+        "SATgrade": 1200,
+        "Age": 18,
+        "dropoutProbability": 0.69
+    },
+    {
+        "id": 20231006,
+        "dropout": true,
+        "LastGPA": 1.1,
+        "SATgrade": 1000,
+        "Age": 18,
+        "dropoutProbability": 0.99
+    }
+]
